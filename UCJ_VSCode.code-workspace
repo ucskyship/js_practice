@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../UCJ_VSCode"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JS_Codes"
+	}
+}
